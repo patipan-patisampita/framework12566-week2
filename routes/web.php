@@ -20,6 +20,6 @@ Route::get('/', function () {
 
 //http://127.0.0.1:8000/test
 Route::get('/test', function () {
-    return 'Hello World,Laravel10';
+    return 'Hello World,Laravel10-basic';
 });
 
